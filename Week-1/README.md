@@ -1,7 +1,7 @@
 # Digital Nurture 5.0 – Deep Skilling Exercise
-#Name: Devaraj K
-#Superset ID: 7990056
-#Email: deva09345@gmail.com
+Name: Devaraj K
+Superset ID: 7990056
+Email: deva09345@gmail.com
 
 ## Week 1 Exercises
 - AdvancedSQL
