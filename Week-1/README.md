@@ -1,4 +1,4 @@
-# Digital Nurture 5.0 – Deep Skilling | Week-1 Solutions
+# Digital Nurture 5.0 – Deep Skilling exercise
 
 > **Program:** Cognizant Digital Nurture 5.0  
 > **Track:** Java Full Stack Engineer (Angular)  
