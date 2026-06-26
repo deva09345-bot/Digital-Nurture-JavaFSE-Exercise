@@ -1,0 +1,10 @@
+com\cognizant\ems\controller\DepartmentController.class
+com\cognizant\ems\service\DepartmentService.class
+com\cognizant\ems\model\Skill.class
+com\cognizant\ems\model\Employee.class
+com\cognizant\ems\EmployeeManagementApplication.class
+com\cognizant\ems\repository\DepartmentRepository.class
+com\cognizant\ems\model\Department.class
+com\cognizant\ems\repository\EmployeeRepository.class
+com\cognizant\ems\controller\EmployeeController.class
+com\cognizant\ems\service\EmployeeService.class
